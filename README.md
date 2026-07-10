@@ -1,6 +1,6 @@
 # PicoEMU Base Board 3bpp 版マニュアル
 
-これは Raspberry Pi Pico を使ったエミュレータシリーズのうちで 8色の機種用のための基板のマニュアルになります。
+これは Raspberry Pi Pico を使ったエミュレータシリーズのうちで 画面出力がデジタル 8色の機種用のための基板のマニュアルになります。
 以下のエミュレータに対応しています。
 
 - [FM-7](https://github.com/shippoiincho/fm7emulator)
@@ -10,7 +10,7 @@
 - [Pasopia/Pasopia7](https://github.com/shippoiincho/pasopiaemulator)
 - [JR-200](https://github.com/shippoiincho/jr200emulator)
 
-6bpp ないし 8bpp 版には対応していません
+6bpp (PC-6001) ないし 8bpp (MSX) には対応していません
 
 ## 必要なもの
 

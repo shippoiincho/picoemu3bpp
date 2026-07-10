@@ -4,7 +4,7 @@
 以下のエミュレータに対応しています。
 
 - [FM-7](https://github.com/shippoiincho/fm7emulator)
-- [BASIC Master Level 3]](https://github.com/shippoiincho/bml3emulator)
+- [BASIC Master Level 3](https://github.com/shippoiincho/bml3emulator)
 - [MZ-1500](https://github.com/shippoiincho/mz1500emulator)
 - [MZ-2000](https://github.com/shippoiincho/mz2000emulator)
 - [Pasopia/Pasopia7](https://github.com/shippoiincho/pasopiaemulator)

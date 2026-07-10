@@ -80,8 +80,8 @@ Pico の Boot ボタンを押しながらパソコンに接続すると書き込
 
 - フォントと ROM の準備
 
-[MZ-700win)(https://mzakd.cool.coocan.jp/starthp/mz700win.html)の説明に従って フォントを作成します。
-(すいません、Macintosh のエミュレータで可能かどうか未確認です)
+[MZ-700win](https://mzakd.cool.coocan.jp/starthp/mz700win.html)の説明に従って フォントを作成します。
+(すいません、Macintosh のエミュレータで同様のことが可能かどうか未確認です)
 おなじく MZ-NEWMON もダウンロードします。
 
 - フォントと ROM の書き込み

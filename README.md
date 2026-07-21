@@ -122,7 +122,7 @@ picotool load -v -x NEWMON7.ROM -t bin -o 0x10070000
 picotool load -v -x mz700fon.dat -t bin -o 0x10074000
 ```
 
--　あああ
+- 実行テスト
 
 ここまで、準備できれいればエミュレータは動作していますので、試しに実行してみます。
 
@@ -130,6 +130,8 @@ picotool load -v -x mz700fon.dat -t bin -o 0x10074000
 -- OTG ケーブルに、電源用 USB ケーブル、キーボードを接続の上、Pico の USB 端子に接続します
 
 正しく動作していれば以下のような画面が表示されます
+
+![Emulator1](picoemu07.jpg)
 
 また、キーボードの F12 を押すと以下のようなメニュー画面が表示されます。
 

@@ -102,7 +102,7 @@ picotool を実行する前に、Pico を書き込みモードにします。
 
 ```
 picotool load -v -x NEWMON7.ROM -t bin -o 0x10070000
-picotool load -v -x FONT.ROM -t bin -o 0x10074000
+picotool load -v -x mz700fon.dat -t bin -o 0x10074000
 ```
 
 -　あああ

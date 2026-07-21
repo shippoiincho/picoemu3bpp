@@ -1,6 +1,6 @@
 # PicoEMU Base Board 3bpp 版マニュアル
 
-[!](/pictures/picoemu00.jpg)
+!(/pictures/picoemu00.jpg)
 
 これは Raspberry Pi Pico を使ったエミュレータシリーズのうちで 画面出力がデジタル 8色の機種用のための基板のマニュアルになります。
 以下のエミュレータに対応しています。

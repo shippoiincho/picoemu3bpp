@@ -153,14 +153,21 @@ MZ-700 には、BASIC などが搭載されていないので、ソフトウェ�
 
 入手した `MZT` ファイルをまとめて LittleFS イメージを作成します。
 作成には、[mklittlefs](https://github.com/earlephilhower/mklittlefs) というツールを使います。
+例として、mz700 フォルダ以下にある mzt ファイルをまとめて LittleFS イメージを作成するには以下のようにします。
+
+```
+mklittlefs -b 4096 -s 1572864 -c mz700 picoemu.img
+```
 
 なおファイル名に制限がありますので、長いファイル名の場合は 16 文字以内に変更してください。
 
 - LittleFS イメージの書き込み
 
-作成したイメージは
+作成したイメージは、ROM データと同様に picotool などで書き込みます。
 
-
+```
+picotool load -v -x picoemu.img -t bin -o 0x10080000
+```
 
 正しく書き込まれていれば、メニュー画面上で書き込んだイメージファイルが見えます。
 
@@ -176,7 +183,8 @@ NEW-MONITOR が画面で `L` (+enter) と入力します。
 
 ![Emulator4](picoemu10.jpg)
 
-ロードが完了すると、BASIC が起動しますので、
+ロードが完了すると、BASIC が起動します。
+昭和時代のパソコン環境がここに再現します。
 
 ## 改造など
 

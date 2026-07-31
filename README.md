@@ -170,7 +170,7 @@ NEW-MONITOR が画面で `L` (+enter) と入力します。
 エミュレータがテープからロードするモードに入りますので、メニューの `LOAD` を選択します。
 選択ののちテープファイル(`basic.mzt`)を選択します。
 
-![Emulator3](oicoemu08.jpg)
+![Emulator3](oicoemu09.jpg)
 
 正しくロードできれば、次のような画面になります。
 

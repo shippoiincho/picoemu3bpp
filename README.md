@@ -153,4 +153,4 @@ NEW‑MONITOR の画面で `L`（Enter）を入力します。エミュレータ
 ## 改造など
 
 - 音声出力はブザーを前提にしていますが、外部に追加したローパスフィルタ（LPF）回路を経由してライン入力に接続することも可能です。  
-- ケースなどは[catsin さん作成のミニチュア](https://catsin.catfood.jp/FileStorage/pukiwiki/index.php)を利用できます。1/3 サイズで作られているので余裕をもって内蔵できると思います.
+- 3D プリンタをお持ちの場合、ケースは[catsin さん作成のミニチュア](https://catsin.catfood.jp/FileStorage/pukiwiki/index.php)を小改造で利用できます。1/3 サイズで作られているので余裕をもって内蔵できると思います.
